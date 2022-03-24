@@ -1,0 +1,5 @@
+gene	oncg	tsg	driv	count
+KIT	1	0	1	10
+SPRY4	1	0	0	4
+PRSS21	0	1	0	5
+MYC	1	0	0	4

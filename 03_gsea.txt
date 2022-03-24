@@ -1,0 +1,4 @@
+### The network of SARS-CoV-2—cancer molecular interactions and pathways
+### Pau Erola (2021)
+### 
+### ! Please note that network clustering and GSEA is performed with Cytoscape

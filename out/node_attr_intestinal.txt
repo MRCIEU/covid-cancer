@@ -1,0 +1,4 @@
+gene	oncg	tsg	driv	count
+APC	0	0	1	6
+CFTR	0	1	0	3
+KRAS	0	0	1	3

@@ -1,0 +1,53 @@
+lung	testis	colon	small intestine	kidney	stomach
+cytokine-mediated sig. pathway	1	0	1	0	0	0
+reg. of DNA-binding tr. fact. activity	1	0	0	0	0	0
+cellular response to cadmium ion	1	0	0	0	0	0
+neg. reg. of autophagy	1	0	0	0	0	0
+telomere maint. via semi-conservative repl.	1	1	0	0	0	0
+DNA replication, synthesis of RNA primer	1	1	0	0	0	0
+protein ubiquitination	1	0	0	0	1	1
+pos. reg. of kinase activity	1	0	1	0	0	1
+pos. reg. of proteasomal ubiquitin-dependent protein catabolic pr.	1	0	0	0	0	0
+neg. reg. of canonical Wnt sig. pathway	1	0	1	1	0	1
+mRNA splicing, via spliceosome	1	0	0	0	0	0
+pos. reg. of NF-kappaB tr. fact. activity	1	0	0	0	0	0
+hippo sig.	1	1	0	0	0	0
+reg. of cell diff. inv. in embryonic placenta dev.	1	1	0	0	0	0
+primitive hemopoiesis	1	1	0	0	0	0
+endocardium dev.	1	1	0	0	0	0
+cell diff. inv. in embryonic placenta dev.	1	1	0	0	0	0
+neural tube formation	1	1	0	0	0	0
+neg. reg. of organ growth	1	1	0	0	0	0
+hepatocyte apoptotic pr.	1	1	0	0	0	0
+pos. reg. of extrinsic apoptotic sig. pathway via death…	1	1	0	0	0	0
+stress-activated protein kinase sig. cascade	1	1	0	0	0	0
+U4 snRNA 3'-end pr.ing	1	0	0	0	0	0
+nuclear-transcribed mRNA catabolic pr., exonucleolytic, 3'-5'	1	0	0	0	0	0
+exonucleolytic catabolism of deadenylated mRNA	1	0	0	0	0	0
+nuclear polyadenylation-dependent tRNA catabolic pr.	1	0	0	0	0	0
+polyadenylation-dependent snoRNA 3'-end pr.ing	1	0	0	0	0	0
+exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA…	1	0	0	0	0	0
+reg. of mRNA stability	1	0	0	0	0	0
+nuclear mRNA surveillance	1	0	0	0	0	0
+rRNA pr.ing	1	0	0	0	0	0
+rRNA catabolic pr.	1	0	0	0	0	0
+reg. of signal transduction by p53 class mediator	0	1	0	0	1	0
+G1/S transition of mitotic cell cycle	0	1	0	0	0	0
+DNA replication initiation	0	1	0	0	0	0
+pos. reg. of fat cell diff.	0	1	0	0	0	0
+Wnt sig. pathway	0	0	1	1	0	0
+beta-catenin-TCF complex assembly	0	0	1	0	0	0
+reg. of cell motility	0	0	1	0	0	0
+transmembrane receptor protein tyrosine kinase…	0	0	1	0	0	1
+peptidyl-tyrosine phosphorylation	0	0	1	0	0	1
+Golgi organization	0	0	1	0	0	0
+endoplasmic reticulum to Golgi vesicle-mediated transport	0	0	1	0	0	0
+activation of protein kinase A activity	0	0	0	1	0	1
+cellular response to glucagon stimulus	0	0	0	1	0	1
+renal water homeostasis	0	0	0	1	0	1
+post-translational protein modification	0	0	0	0	1	0
+reg. of transcription from RNA polymerase II promoter in hypoxia	0	0	0	0	1	0
+protein polyubiquitination	0	0	0	0	1	0
+reg. of ERK1 and ERK2 cascade	0	0	0	0	0	1
+pos. reg. of snRNA transcription by RNA polymerase II	0	0	0	0	0	1
+neg. reg. of type I interferon production	0	0	0	0	0	1
